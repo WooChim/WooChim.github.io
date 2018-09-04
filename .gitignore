@@ -1,4 +1,4 @@
-
-_config.yml
-
-*.un~
+/_site
+*.gem
+.sass-cache
+Gemfile.lock
